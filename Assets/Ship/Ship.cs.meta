@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 61e7019819268ef4dbc39cbbe147f3d5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spaceObject: {instanceID: 0}
+  - lr: {instanceID: 0}
+  - m: {fileID: 2100000, guid: a4c1e4841203e434992c0ca00c23e398, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

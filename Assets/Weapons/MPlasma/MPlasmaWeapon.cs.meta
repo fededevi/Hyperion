@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 9b457b1c20ac7614c99f2268a6d833e3
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - plasmaCannonProj: {fileID: 100000, guid: a5988140022fcac4e98dbf5c08028fdd, type: 2}
+  - spaceObject: {instanceID: 0}
+  - turret: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

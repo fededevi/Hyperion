@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: c5b4d74f8ac0e0c49be63f999bf98392
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - friendlyCore: {instanceID: 0}
+  - enemyCore: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

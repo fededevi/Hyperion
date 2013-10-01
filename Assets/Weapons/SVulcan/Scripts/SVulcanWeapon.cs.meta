@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: fadb58cbf10cdd04e93ff3e2305d8bc6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spaceObject: {instanceID: 0}
+  - turret: {instanceID: 0}
+  - vulcanCannonProj: {fileID: 100000, guid: 0879377f55e659445900f50f742279d4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

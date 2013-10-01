@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c0209324a9c987045a365b5a40f2f502
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - ship: {instanceID: 0}
+  - generator: {instanceID: 0}
+  - engine: {instanceID: 0}
+  - movement: {instanceID: 0}
+  - listsKeeper: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

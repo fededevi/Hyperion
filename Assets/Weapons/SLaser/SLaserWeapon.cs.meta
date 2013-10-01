@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a294628bb1a14ea43a326aa0300e4699
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - spaceObject: {instanceID: 0}
+  - turret: {instanceID: 0}
+  - fxLine0: {fileID: 100000, guid: cd62e1381caadc348a73eed7f5cad107, type: 2}
+  - fxLine1: {fileID: 100006, guid: cd62e1381caadc348a73eed7f5cad107, type: 2}
+  - fxParticles: {fileID: 100002, guid: cd62e1381caadc348a73eed7f5cad107, type: 2}
+  - fxSparkles: {fileID: 100004, guid: cd62e1381caadc348a73eed7f5cad107, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
