@@ -1,4 +1,4 @@
 Hyperion
 ========
 
-Unity RTS same with modular ships and weapons
+Unity RTS same with modular units and lots of weapons & explosions :)
